@@ -8,8 +8,6 @@ entries:
     digest: 67d87c187eec57afb3771dcc5d541a5908fa3c75e0ec32318111dac691cd008b
     name: helmexample
     type: application
-    urls:
-    - charts/helmexample-0.1.0.tgz
     version: 0.1.0
     home: https://aidashi.github.io/helmexample
     icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
